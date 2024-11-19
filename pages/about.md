@@ -23,15 +23,6 @@ Disneyland Paris is located 32 kilometers east of Paris, France, in Europe. The 
 The purpose of this collection is to provide information to people who are looking for possible sites to travel to with friends or family, or are looking for information about the Disney Parks themselves, or reasearching the history of Walt Disney and his Company and Disney-related sites. I had the opportunity to take these photographs on my personal phone during a family trip to Disneyland Paris in the month of June in 2023, and then during a personal trip with my mother to Walt Disney World in May of 2024.
 
 
-## Additional Information
-
-For further information about Walt Disney World or Disneyland Paris, please see the following links:
-
-["https://en.wikipedia.org/wiki/Walt_Disney_World"]
-
-["https://en.wikipedia.org/wiki/Disneyland_Paris"]
-
-
 
 ## Information about CollectionBuilder
 
