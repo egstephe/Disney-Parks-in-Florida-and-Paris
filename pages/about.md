@@ -25,6 +25,13 @@ The purpose of this collection is to provide information to people who are looki
 
 ## Additional Information
 
+For further information about Walt Disney World or Disneyland Paris, please see the following links:
+https://en.wikipedia.org/wiki/Walt_Disney_World
+https://en.wikipedia.org/wiki/Disneyland_Paris
+
+
+## Information about CollectionBuilder
+
 This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
