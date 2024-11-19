@@ -26,8 +26,11 @@ The purpose of this collection is to provide information to people who are looki
 ## Additional Information
 
 For further information about Walt Disney World or Disneyland Paris, please see the following links:
-[https://en.wikipedia.org/wiki/Walt_Disney_World]
-[https://en.wikipedia.org/wiki/Disneyland_Paris]
+
+["https://en.wikipedia.org/wiki/Walt_Disney_World"]
+
+["https://en.wikipedia.org/wiki/Disneyland_Paris"]
+
 
 
 ## Information about CollectionBuilder
