@@ -8,6 +8,6 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-#### Interactive timeline of Disney Park Photos content
+#### Interactive Timeline of Disney Park Photos
 
 {% include feature/timelinejs.html %}
